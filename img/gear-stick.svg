@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 512 512" width="512" height="512"><title>Gear Stick</title><rect x="236" y="318" width="40" height="51"/><circle cx="256" cy="135.635" r="59.5"/><path d="M276,206.46a76.1,76.1,0,0,1-40,0V251h40Z"/><rect x="236" y="265" width="40" height="39"/>
+    <style>
+       svg{
+		fill:#dc2722;
+		}
+    </style>
+<path d="M130,416.365V436H382V416.365c0-18.2-14.8-33.365-33-33.365H163C144.8,383,130,398.169,130,416.365Z"/></svg>
